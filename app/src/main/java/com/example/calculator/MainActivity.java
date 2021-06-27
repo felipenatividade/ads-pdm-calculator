@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         getSupportActionBar().hide();
 
         numeroZero.setOnClickListener(this);
+        numeroUm.setOnClickListener(this);
         numeroDois.setOnClickListener(this);
         numeroTres.setOnClickListener(this);
         numeroQuatro.setOnClickListener(this);
